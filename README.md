@@ -1,11 +1,10 @@
 # chatApp
 
-Authors
-👤 Author1
+Authors 
+👤 Author1 Alelign Ayana
 
 GitHub: @atatm
 
-Authors
-👤 Author2
+👤 Author2  Yared Abate
 
 GitHub: @yared Abate
